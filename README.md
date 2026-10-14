@@ -12,4 +12,4 @@ I'm (**Milan**), a 2nd SMX student based in Spain, i love learning all about com
 **Some stuff i built:**
 
 - [Portfolio](url) - My personal portfolio.
-- [NextPDV](nextpdv.com)
+- [NextPDV](nextpdv.com) - enterprise web that i've made in 2026
