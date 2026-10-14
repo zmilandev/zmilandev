@@ -1,16 +1,15 @@
-## Hi there 👋
+### Hi there! 👋 ###
 
-<!--
-**zmilandev/zmilandev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm (**Milan**), a 2nd SMX student based in Spain, i love learning all about computing, but above all the development and programing are things i love to do, i dont get bored at all doing and learning it
 
-Here are some ideas to get you started:
+**These days i'm focused learning on:** 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- HTML | CSS
+- Python
+
+---
+
+**Some stuff i built:**
+
+- [Portfolio](url) - My personal portfolio.
+- [NextPDV](nextpdv.com)
